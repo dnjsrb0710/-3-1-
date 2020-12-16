@@ -29,3 +29,9 @@
 >## 과제 4
 > #### malloc 함수를 사용하여 memory의 heap영역을 채우고 재귀 함수를 사용하여 memory의 stack영역을 채워 두 영역을 충돌시킨다. 이로부터 두 영역이 연결되어 있음을 확인한다. 
 >>코드 :  [memorytest.c](https://github.com/dnjsrb0710/Operating-System/blob/main/HW04_2015110899_%EC%9D%B4%EC%9B%90%EA%B7%9C/memorytest.c)
+
+<br>
+
+>## 과제 5
+> #### Device driver 프로그램을 이용하여 GPIO 출력을 조절한다 (LED를 여러 가지 방법으로 조정한다.) -Kernel Mode Programming  
+>>코드 :  [led_module.c](https://github.com/dnjsrb0710/Operating-System/blob/main/HW05_2015110899_%EC%9D%B4%EC%9B%90%EA%B7%9C/1%EB%B2%88%20%EB%AC%B8%EC%A0%9C/led_module.c) , [user.c](https://github.com/dnjsrb0710/Operating-System/blob/main/HW05_2015110899_%EC%9D%B4%EC%9B%90%EA%B7%9C/1%EB%B2%88%20%EB%AC%B8%EC%A0%9C/user.c)
